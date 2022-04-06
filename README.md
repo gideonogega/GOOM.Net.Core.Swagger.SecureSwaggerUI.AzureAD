@@ -1,0 +1,1 @@
+# GOOM.Net.Core.Swagger.SecureSwaggerUI.AzureAD
